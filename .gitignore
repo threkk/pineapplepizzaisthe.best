@@ -163,3 +163,5 @@ tags
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,vim,node
 wrangler.toml
+
+.vercel
